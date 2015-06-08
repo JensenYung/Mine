@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">支持</string>
+
+    <string name="action_refresh_top">顶部广告</string>
+    <string name="action_refresh_bottom">底部广告</string>
+    <string name="action_refresh_main">退出广告</string>
+
+    <string name="hello_world">Hello world!</string>
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="unit_id_banner_top">ca-app-pub-3724506352818128/3231562697</string>
+    <string name="unit_id_banner_bottom">ca-app-pub-3724506352818128/5346777492</string>
+    <string name="unit_id_interstitial_main">ca-app-pub-3724506352818128/2893485499</string>
+</resources>
